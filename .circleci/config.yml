@@ -1,2 +1,3 @@
--run:
-  command: bash build.sh
+Job:
+ -run:
+    command: bash build.sh
