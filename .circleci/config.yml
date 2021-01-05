@@ -1,3 +1,2 @@
-  - run:
-       shell: /bin/sh
-       command: bash build.sh
+-run:
+  command: bash build.sh
